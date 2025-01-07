@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Fizryan! 👋
 
-<!--
-**Fizryan/Fizryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! feel free to call me **Fizryan**.
+---
 
-Here are some ideas to get you started:
+## 🔧 My Public Repositories
+- **Portfolio**: [Click Link](https://fizryan.github.io/Assets/e-portfolio.html)
+- **Course**: [Click Link](https://github.com/Fizryan/Course)
+- **TaskList**: [Click Link](https://github.com/Fizryan/TaskList)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌍 Let's Connect
+
+I'm always eager to learn, collaborate, and contribute! Let's connect and share ideas:
+
+- **Website**: [fizryan.github.io](https://fizryan.github.io/)
+- **Instagram**: [fizryan](https://instagram.com/fizryan)
+
+---
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate. Let's build something amazing together! 🚀
