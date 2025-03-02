@@ -5,7 +5,7 @@ Welcome to my GitHub profile! feel free to call me **Fizryan**.
 
 ## 🔧 My Public Repositories
 - **Portfolio**: [Click Link](https://fizryan.github.io/Assets/e-portfolio.html)
-- **Course**: [Click Link](https://github.com/Fizryan/Course)
+- **Course**: [Click Link](https://github.com/Fizryan/Tasks)
 - **TaskList**: [Click Link](https://github.com/Fizryan/TaskList)
 
 ---
