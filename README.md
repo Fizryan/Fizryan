@@ -3,13 +3,6 @@
 Welcome to my GitHub profile! feel free to call me **Fizryan**.
 ---
 
-## 🔧 My Public Repositories
-- **Portfolio**: [Click Link](https://fizryan.github.io/Assets/e-portfolio.html)
-- **Course**: [Click Link](https://github.com/Fizryan/Tasks)
-- **TaskList**: [Click Link](https://github.com/Fizryan/TaskList)
-
----
-
 ## 🌍 Let's Connect
 
 I'm always eager to learn, collaborate, and contribute! Let's connect and share ideas:
