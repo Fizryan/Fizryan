@@ -12,6 +12,8 @@
   <img src="https://skillicons.dev/icons?i=java,python,lua,cs,cpp,js,ts&perline=7"/>
 </p>
 
+---
+
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fizryan&theme=dark&background=0D1117&&border=20C997&cache_seconds=3600)](https://github.com/Fizryan?tab=repositories)
@@ -25,6 +27,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fizryan&layout=compact&theme=dark&border_color=20C997&cache_seconds=1800)](https://github.com/Fizryan?tab=repositories)
 
 </div>
+
+---
 
 ### 🌐 Let's Connect
 
